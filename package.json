@@ -1,6 +1,6 @@
 {
-  "name": "@electron/symbolicate-mac",
-  "version": "0.0.0-development",
+  "name": "@indutny/symbolicate-mac",
+  "version": "2.3.0",
   "description": "Symbolicate textual Electron macOS crashes",
   "main": "index.js",
   "repository": "https://github.com/electron/symbolicate-mac",
